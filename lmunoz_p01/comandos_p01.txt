@@ -1,0 +1,148 @@
+# Comandos de la Práctica 01
+## Muñoz Barón Luis MIguel
+
+# Parte I.
+
+**Respuesta 1:**
+$echo $0
+/bin/bash
+
+
+**Respuesta 2:**
+$mkdir data/ filtered/ raw_data/ meta/ scripts/ figures/ archive/
+
+**Respuesta 3:**
+$mv filtered/ data/
+$mv raw_data/ data/
+
+**Respuesta 4:**
+Debemos tener esta estructura en nuestro proyecto pues es una "convención" o estándar
+en la comunidad biogenómica. De tal forma que replicar esta jerarquía y organización
+de directorios va a permitir a cualquier otra persona adepta correr el proyecto e identificar
+sus componentes.
+
+Es conveniente ya que debe de ser modular, replicable y fácil de leer para cualquier persona
+ajena a nosotros.
+
+# Parte II.
+
+**Respuesta 1:**
+$ cd scripts/
+$ nano delay.sh
+$ chmod +x delay.sh
+
+**Respuesta 2:**
+ls -l
+total 4
+-rwxr-xr-x 1 root root 130 oct 25 11:07 delay.sh
+
+
+**Respuesta 3:**
+#!/bin/bash
+echo "Después de la Parte I. necesito un descanso de exactamente 30 segundos."
+sleep 3000
+echo "Ya puedo continuar!"
+
+
+**Respuesta 4:**
+$ ./delay.sh &
+$ pgrep delay.sh
+14973
+baron@baron-Lenovo-ideapad-330S-15IKB:/home/GenomicaComputacional/lmunoz_p01/scripts$ kill 14973
+
+# Parte III
+$mv sequence.fasta sarscov2_genome.fasta
+$mv sequence.gff3 sarscov2_genome.gff3
+$mv sequence.fasta splike_c.faa
+$mv "sequence (1).fasta" splike_b.faa
+$mv "sequence (2).fasta" splike_a.faa
+$mv sarscov2_genome.fasta sarscov2_genome.gff3 splike_c.faa splike_b.faa splike_a.faa SRR10971381_R1.fastq.gz SRR10971381_R2.fastq.gz sarscov2_assembly.fasta.gz /home/GenomicaComputacional/lmunoz_p01/data/raw_data
+
+
+# Parte IV
+
+**Respuesta 1:**
+$ ln -s ../raw_data/splike_c.faa
+$ ln -s ../raw_data/splike_b.faa
+$ ln -s ../raw_data/splike_a.faa
+
+**Respuesta 2:**
+$ touch glycoproteins.faa
+
+**Respuesta 3:**
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/filtered$ head splike_a.faa -n 1
+>pdb|6XEY|A Chain A, SARS-CoV-2 spike glycoprotein
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/filtered$ head splike_b.faa -n 1
+>pdb|6XEY|B Chain B, SARS-CoV-2 spike glycoprotein
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/filtered$ head splike_c.faa -n 1
+>pdb|6XEY|C Chain C, SARS-CoV-2 spike glycoprotein
+
+**Respuesta 4:**
+$ cat splike_a.faa splike_b.faa splike_c.faa  > glycoproteins.faa
+
+
+**Respuesta 5:**
+ya no sirven las ligas simbólicas pues eran suaves, lo que quiere decir que estaban ligadas a la ruta de especificada
+en lugar de al archivo mismo.
+
+
+**Respuesta 6:**
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/raw_data$ head sarscov2_genome.fasta -n 3
+>NC_045512.2 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+ATTAAAGGTTTATACCTTCCCAGGTAACAAACCAACCAACTTTCGATCTCTTGTAGATCTGTTCTCTAAA
+CGAACTTTAAAATCTGTGTGGCTGTCACTCGGCTGCATGCTTAGTGCACTCACGCAGTATAATTAATAAC
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/raw_data$ zless sarscov2_assembly.fasta.gz | head -n 3
+>NODE_1_length_264_cov_161.042781
+CACAAATCTTAACACTCTTCCCTACACGACGCTCTTCCGATCTACGCCGGGCCATTCGTA
+CGAACCGATACCTGTGGTAAAGGGTCCTACTGTATGGTGGTACACGAGTAGTAGCAAATG
+
+
+**Respuesta 7:***
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/raw_data$ cat sarscov2_genome.fasta |  grep -o ">" | wc -l
+1
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/raw_data$ zless sarscov2_assembly.fasta.gz |  grep -o ">" | wc -l
+35
+
+
+**Respuesta 8:***
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/raw_data$ zless SRR10971381_R2.fastq.gz | head -n 12
+@SRR10971381.512_2
+CGTGGAGTATGGCTACATACTACTTATTTGATGAGTCTGGTGAGTTTAAAGTGGCTTCACATATGTATTGTTCTTTCTACCCTCCAGATGAGGATGAAGAAGAAGGTGATTGTGAAGAAGAAGAGTTTGAGCCATCAACTCAATATGAGT
++
+/FFFA/A/FFFF66FFFFFF/FF/FFFFFFFFFFFFF/AFFF6FFFA6FFFFF/FFFFFFFFFFFFFFFFFF/FF/FFFFFA/FFF/FFF/A/AFA/FFFFF/=F/F/F/AFAFF//A/AFF//FFAF/FFF=FFAFFFA/A/6=///==
+@SRR10971381.556_2
+TTTGTAAAAATAAAATAAAAAAAATAAAAATAATATATTAAAAAAAGATAAATAAAAAAATGAACAATTAATAAAAAAAAAAAAAAAAAAAAATTAAAAAAAAAAAAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAAATTATAAAA
++
+6AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF/FFFAFFFFFF/FFA/FF=F//=FF/FFFFFFFFFFFFFA/FFFF/FF/FA//F/FFFFFFA/=FFFFF/FFFF/F=FFFAFF///FFFFA/FF/6//////=/
+@SRR10971381.1428_2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
++
+FFFFFFFFFFFFAFFFAFFFFFF6A//F//FFF
+
+
+Podemos notar que el carácter "@" nos sirve para separar las secuencias:
+baron@baron-Lenovo-ideapad-330S-15IKB:~/GenomicaComputacional/lmunoz_p01/data/raw_data$ zless SRR10971381_R2.fastq.gz | grep -o "@" | wc -l
+130022
+
+
+
+**Respuesta 9:***
+Explica la diferencia entre los formatos .faa, .fastqc y fasta: ¿Las secuencias hacen referencia a nucleótidos o aminoácidos? ¿A qué corresponde la información de las líneas en el formato fastqc?.
+Los archivos .fastqc almacenan todo tipo de secuencias biológicas como nucleótidos.
+los archivos .faa almacenan secuencias de aminoácidos.
+y los archivos fasta son archivos que serelacionan con la terminación fna, ffn, faa, frn
+
+los formatos que maneja .fastqc son:
+
+la secuencia cruda.
+@ para el identificador de secuencia y una descripción.
+
+**Respuesta 10:***
+less -s corta el texto desplegado al borde de la ventana
+mientras que less despliega todo el texto y lo ajusta al tamaño del shell.
+
+
+**Respuesta 11:**
+awk '$3 == "gene"' sarscov2_genome.gff3 | less -S
+awk '$3 == "gene"' sarscov2_genome.gff3 | less -S | wc
+  11     100    1822                              (11 genes)

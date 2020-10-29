@@ -1,0 +1,10 @@
+Las distintas proteinas que se encuentran al rededor de la 
+capa lipídica del coronavirus es la encargada de acoplar el 
+virus a las células de los organismos a los que llega.
+Para poder infectar a la célula tiene que acoplar mediante el
+empleo de su subunidad, ésta subunidad determina la clase de 
+células a las que puede infectar y la intensidad(Por éso hay 
+variantes de coronavirus según la especie).
+Una vez hecho el contacto se transfiere el material genético 
+del virus hacía el interior de la célula receptora con 
+la ayuda de la subunidad S2 lleva acabo dicha transferencia.

@@ -1,0 +1,13 @@
+La conferencia habla acerca sobre la estructura del coronavirus
+sars-cov-2 y su relación con el desarrollo de diagnósticos,
+vacunas y tratamientos. La ponencia comienza con una descripción de
+la apariencia del virus, así como menciona los tipos de coronavirus
+existentes y a qué animales afectan. Después, se menciona a grandes
+rasgos sus características a nivel genético, gracias a la secuenciación
+realizada. Esto permitió hacer un análisis filogenético para relacionar
+el virus a los murciélagos. Posteriormente, se hace un análisis
+más detallado de su estructura, indicando el tamaño del virus,
+su composición molecular y la forma en la que infecta. Finalmente, el
+Dr. Constantino explica diferentes formas de construir una vacuna contra
+el virus, así como muestra diferentes compañias y organizaciones que buscan
+dicha vacuna.
