@@ -1,0 +1,277 @@
+
+
+Order:14
+
+
+
+Size:182
+
+
+
+Diameter (Undirected):1
+
+
+
+Radius (Undirected):1
+
+
+
+Density:1.0
+
+
+
+Mean Degree:13.0
+
+
+
+Max Possible Degree:13
+
+
+
+Clustering Coefficient:1.0
+
+
+
+Max Degree Hubs:
+- Max In Degree: 13
+- Number of Hubs with Max In Degree: 14
+- Hubs with Max In Degree: Lachnospiraceae,Bacteroidaceae,Verrucomicrobiaceae,Ruminococcaceae,Unclassified,Oxalobacteraceae,Eubacteriaceae,Enterobacteriaceae,Nitrosomonadaceae,Lactobacillaceae,Corynebacteriaceae,Staphylococcaceae,Erysipelotrichaceae,Prevotellaceae
+- Max Out Degree: 13
+- Number of Hubs with Max Out Degree: 14
+- Hubs with Max Out Degree: Lachnospiraceae,Bacteroidaceae,Verrucomicrobiaceae,Ruminococcaceae,Unclassified,Oxalobacteraceae,Eubacteriaceae,Enterobacteriaceae,Nitrosomonadaceae,Lactobacillaceae,Corynebacteriaceae,Staphylococcaceae,Erysipelotrichaceae,Prevotellaceae
+
+
+
+Minimum Cut Node Set (Undirected):
+- Number of Vertices in MinCut Set: 13
+- Vertices in MinCut Set: Verrucomicrobiaceae,Bacteroidaceae,Erysipelotrichaceae,Staphylococcaceae,Unclassified,Oxalobacteraceae,Lactobacillaceae,Eubacteriaceae,Prevotellaceae,Nitrosomonadaceae,Corynebacteriaceae,Ruminococcaceae,Enterobacteriaceae
+
+
+
+Minimum Cut Edge Set (Undirected):
+- Number of Edges in MinCut Set: 13
+- Edges in MinCut Set: ('Lachnospiraceae', 'Lactobacillaceae'), ('Lachnospiraceae', 'Enterobacteriaceae'), ('Lachnospiraceae', 'Staphylococcaceae'), ('Lachnospiraceae', 'Verrucomicrobiaceae'), ('Lachnospiraceae', 'Erysipelotrichaceae'), ('Lachnospiraceae', 'Oxalobacteraceae'), ('Lachnospiraceae', 'Ruminococcaceae'), ('Lachnospiraceae', 'Corynebacteriaceae'), ('Lachnospiraceae', 'Unclassified'), ('Lachnospiraceae', 'Eubacteriaceae'), ('Lachnospiraceae', 'Prevotellaceae'), ('Lachnospiraceae', 'Bacteroidaceae'), ('Lachnospiraceae', 'Nitrosomonadaceae')
+
+
+
+Connected Components:
+- Number of CC's: 1
+- Number of nodes in CC_1 : 14
+- Nodes in CC_1: Verrucomicrobiaceae,Erysipelotrichaceae,Bacteroidaceae,Ruminococcaceae,Lachnospiraceae,Unclassified,Oxalobacteraceae,Lactobacillaceae,Eubacteriaceae,Prevotellaceae,Nitrosomonadaceae,Corynebacteriaceae,Staphylococcaceae,Enterobacteriaceae
+
+
+
+
+Strongly Connected Components:
+- Number of SCC's: 1
+- Number of nodes in SCC_1 : 14
+- Nodes in SCC_1: Verrucomicrobiaceae,Bacteroidaceae,Erysipelotrichaceae,Lachnospiraceae,Unclassified,Oxalobacteraceae,Lactobacillaceae,Staphylococcaceae,Eubacteriaceae,Prevotellaceae,Nitrosomonadaceae,Corynebacteriaceae,Ruminococcaceae,Enterobacteriaceae
+
+
+
+
+Max Cliques:
+- Number of Maximal Cliques: 1
+- Number of nodes in Maximal Clique 1 : 14
+- Nodes in Clique_1: Verrucomicrobiaceae,Erysipelotrichaceae,Bacteroidaceae,Lachnospiraceae,Ruminococcaceae,Unclassified,Oxalobacteraceae,Lactobacillaceae,Eubacteriaceae,Prevotellaceae,Enterobacteriaceae,Staphylococcaceae,Corynebacteriaceae,Nitrosomonadaceae
+
+
+
+
+Cycle Basis (Undirected):
+- Number Cycles in CB: 78
+- Number of nodes in Cycle 1: 3
+- Nodes in Cycle_1: Lachnospiraceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 2: 3
+- Nodes in Cycle_2: Bacteroidaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 3: 3
+- Nodes in Cycle_3: Ruminococcaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 4: 3
+- Nodes in Cycle_4: Unclassified,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 5: 3
+- Nodes in Cycle_5: Oxalobacteraceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 6: 3
+- Nodes in Cycle_6: Eubacteriaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 7: 3
+- Nodes in Cycle_7: Enterobacteriaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 8: 3
+- Nodes in Cycle_8: Nitrosomonadaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 9: 3
+- Nodes in Cycle_9: Lactobacillaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 10: 3
+- Nodes in Cycle_10: Corynebacteriaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 11: 3
+- Nodes in Cycle_11: Staphylococcaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 12: 3
+- Nodes in Cycle_12: Erysipelotrichaceae,Prevotellaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 13: 3
+- Nodes in Cycle_13: Lachnospiraceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 14: 3
+- Nodes in Cycle_14: Bacteroidaceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 15: 3
+- Nodes in Cycle_15: Ruminococcaceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 16: 3
+- Nodes in Cycle_16: Unclassified,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 17: 3
+- Nodes in Cycle_17: Oxalobacteraceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 18: 3
+- Nodes in Cycle_18: Eubacteriaceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 19: 3
+- Nodes in Cycle_19: Enterobacteriaceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 20: 3
+- Nodes in Cycle_20: Nitrosomonadaceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 21: 3
+- Nodes in Cycle_21: Lactobacillaceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 22: 3
+- Nodes in Cycle_22: Corynebacteriaceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 23: 3
+- Nodes in Cycle_23: Staphylococcaceae,Erysipelotrichaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 24: 3
+- Nodes in Cycle_24: Lachnospiraceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 25: 3
+- Nodes in Cycle_25: Bacteroidaceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 26: 3
+- Nodes in Cycle_26: Ruminococcaceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 27: 3
+- Nodes in Cycle_27: Unclassified,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 28: 3
+- Nodes in Cycle_28: Oxalobacteraceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 29: 3
+- Nodes in Cycle_29: Eubacteriaceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 30: 3
+- Nodes in Cycle_30: Enterobacteriaceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 31: 3
+- Nodes in Cycle_31: Nitrosomonadaceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 32: 3
+- Nodes in Cycle_32: Lactobacillaceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 33: 3
+- Nodes in Cycle_33: Corynebacteriaceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 34: 3
+- Nodes in Cycle_34: Lachnospiraceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 35: 3
+- Nodes in Cycle_35: Bacteroidaceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 36: 3
+- Nodes in Cycle_36: Ruminococcaceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 37: 3
+- Nodes in Cycle_37: Unclassified,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 38: 3
+- Nodes in Cycle_38: Oxalobacteraceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 39: 3
+- Nodes in Cycle_39: Eubacteriaceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 40: 3
+- Nodes in Cycle_40: Enterobacteriaceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 41: 3
+- Nodes in Cycle_41: Nitrosomonadaceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 42: 3
+- Nodes in Cycle_42: Lactobacillaceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 43: 3
+- Nodes in Cycle_43: Lachnospiraceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 44: 3
+- Nodes in Cycle_44: Bacteroidaceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 45: 3
+- Nodes in Cycle_45: Ruminococcaceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 46: 3
+- Nodes in Cycle_46: Unclassified,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 47: 3
+- Nodes in Cycle_47: Oxalobacteraceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 48: 3
+- Nodes in Cycle_48: Eubacteriaceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 49: 3
+- Nodes in Cycle_49: Enterobacteriaceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 50: 3
+- Nodes in Cycle_50: Nitrosomonadaceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 51: 3
+- Nodes in Cycle_51: Lachnospiraceae,Nitrosomonadaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 52: 3
+- Nodes in Cycle_52: Bacteroidaceae,Nitrosomonadaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 53: 3
+- Nodes in Cycle_53: Ruminococcaceae,Nitrosomonadaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 54: 3
+- Nodes in Cycle_54: Unclassified,Nitrosomonadaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 55: 3
+- Nodes in Cycle_55: Oxalobacteraceae,Nitrosomonadaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 56: 3
+- Nodes in Cycle_56: Eubacteriaceae,Nitrosomonadaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 57: 3
+- Nodes in Cycle_57: Enterobacteriaceae,Nitrosomonadaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 58: 3
+- Nodes in Cycle_58: Lachnospiraceae,Enterobacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 59: 3
+- Nodes in Cycle_59: Bacteroidaceae,Enterobacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 60: 3
+- Nodes in Cycle_60: Ruminococcaceae,Enterobacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 61: 3
+- Nodes in Cycle_61: Unclassified,Enterobacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 62: 3
+- Nodes in Cycle_62: Oxalobacteraceae,Enterobacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 63: 3
+- Nodes in Cycle_63: Eubacteriaceae,Enterobacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 64: 3
+- Nodes in Cycle_64: Lachnospiraceae,Eubacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 65: 3
+- Nodes in Cycle_65: Bacteroidaceae,Eubacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 66: 3
+- Nodes in Cycle_66: Ruminococcaceae,Eubacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 67: 3
+- Nodes in Cycle_67: Unclassified,Eubacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 68: 3
+- Nodes in Cycle_68: Oxalobacteraceae,Eubacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 69: 3
+- Nodes in Cycle_69: Lachnospiraceae,Oxalobacteraceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 70: 3
+- Nodes in Cycle_70: Bacteroidaceae,Oxalobacteraceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 71: 3
+- Nodes in Cycle_71: Ruminococcaceae,Oxalobacteraceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 72: 3
+- Nodes in Cycle_72: Unclassified,Oxalobacteraceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 73: 3
+- Nodes in Cycle_73: Lachnospiraceae,Unclassified,Verrucomicrobiaceae
+- Number of nodes in Cycle 74: 3
+- Nodes in Cycle_74: Bacteroidaceae,Unclassified,Verrucomicrobiaceae
+- Number of nodes in Cycle 75: 3
+- Nodes in Cycle_75: Ruminococcaceae,Unclassified,Verrucomicrobiaceae
+- Number of nodes in Cycle 76: 3
+- Nodes in Cycle_76: Lachnospiraceae,Ruminococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 77: 3
+- Nodes in Cycle_77: Bacteroidaceae,Ruminococcaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 78: 3
+- Nodes in Cycle_78: Lachnospiraceae,Bacteroidaceae,Verrucomicrobiaceae
+
+
+
+
+Maximal Independet Set (might be repeated):
+- Independent Set: 1
+- Number of nodes in this maximal independent set: 1
+- Nodes in this maximal independent set: Nitrosomonadaceae
+- Independent Set: 2
+- Number of nodes in this maximal independent set: 1
+- Nodes in this maximal independent set: Staphylococcaceae
+- Independent Set: 3
+- Number of nodes in this maximal independent set: 1
+- Nodes in this maximal independent set: Prevotellaceae
+- Independent Set: 4
+- Number of nodes in this maximal independent set: 1
+- Nodes in this maximal independent set: Lactobacillaceae
+- Independent Set: 5
+- Number of nodes in this maximal independent set: 1
+- Nodes in this maximal independent set: Staphylococcaceae
+
+
+
+
+Degree Distribution:
+- In Degree distribution:0,0,0,0,0,0,0,0,0,0,0,0,0,14
+- Out Degree distribution:0,0,0,0,0,0,0,0,0,0,0,0,0,14
+
+
+
+Communities (Undirected):
+- Modularity: 0.0
+- Coverage: 1.0
+- Performance: 1.0
+- Number of Communities: 1
+- Number of nodes in community 1: 14
+- Nodes in C_1: Verrucomicrobiaceae,Bacteroidaceae,Erysipelotrichaceae,Lachnospiraceae,Unclassified,Oxalobacteraceae,Lactobacillaceae,Staphylococcaceae,Eubacteriaceae,Prevotellaceae,Nitrosomonadaceae,Corynebacteriaceae,Ruminococcaceae,Enterobacteriaceae
+
+

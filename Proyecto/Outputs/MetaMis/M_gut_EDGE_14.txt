@@ -1,0 +1,183 @@
+Source	Target	Strength
+Lachnospiraceae	Bacteroidaceae	-0.00035700828566684
+Lachnospiraceae	Ruminococcaceae	-0.000196996302045681
+Lachnospiraceae	Neisseriaceae	-0.000161464249285028
+Lachnospiraceae	Unclassified	2.45785115502535e-05
+Lachnospiraceae	Rikenellaceae	-0.000387417303987499
+Lachnospiraceae	Porphyromonadaceae	-0.00014139196126348
+Lachnospiraceae	Staphylococcaceae	-6.21440868244715e-05
+Lachnospiraceae	Prevotellaceae	0.00180388376457742
+Lachnospiraceae	Clostridiales Family XI. Incertae Sedis	0.00157293541735928
+Lachnospiraceae	Oxalobacteraceae	-0.000914458628638123
+Lachnospiraceae	Eubacteriaceae	-0.000355220586559904
+Lachnospiraceae	Verrucomicrobiaceae	0.000323761608038969
+Lachnospiraceae	Micrococcaceae	-1.61647783984256e-05
+Bacteroidaceae	Lachnospiraceae	-0.000280993704218275
+Bacteroidaceae	Ruminococcaceae	-0.000205988242439304
+Bacteroidaceae	Neisseriaceae	-9.24609978041856e-05
+Bacteroidaceae	Unclassified	-6.28437140097419e-06
+Bacteroidaceae	Rikenellaceae	-0.000597033479764137
+Bacteroidaceae	Porphyromonadaceae	-0.000128394620212418
+Bacteroidaceae	Staphylococcaceae	-3.92637400672917e-05
+Bacteroidaceae	Prevotellaceae	0.00233939055628347
+Bacteroidaceae	Clostridiales Family XI. Incertae Sedis	0.00204035193023667
+Bacteroidaceae	Oxalobacteraceae	-0.001024537444899
+Bacteroidaceae	Eubacteriaceae	-0.000441944212568697
+Bacteroidaceae	Verrucomicrobiaceae	0.000124125477099804
+Bacteroidaceae	Micrococcaceae	3.95392520578975e-05
+Ruminococcaceae	Lachnospiraceae	-0.000461121334885656
+Ruminococcaceae	Bacteroidaceae	-0.000178743556754425
+Ruminococcaceae	Neisseriaceae	-8.67546303420159e-05
+Ruminococcaceae	Unclassified	-7.95125954848825e-05
+Ruminococcaceae	Rikenellaceae	-0.000733546211468262
+Ruminococcaceae	Porphyromonadaceae	7.49140032510255e-05
+Ruminococcaceae	Staphylococcaceae	-7.85113970172509e-05
+Ruminococcaceae	Prevotellaceae	0.00161273069300397
+Ruminococcaceae	Clostridiales Family XI. Incertae Sedis	0.00119615709003102
+Ruminococcaceae	Oxalobacteraceae	-0.000767864273743551
+Ruminococcaceae	Eubacteriaceae	-0.000558004890082571
+Ruminococcaceae	Verrucomicrobiaceae	0.000344417225651738
+Ruminococcaceae	Micrococcaceae	8.72901396457675e-05
+Neisseriaceae	Lachnospiraceae	0.00109480057822328
+Neisseriaceae	Bacteroidaceae	0.0057096328407267
+Neisseriaceae	Ruminococcaceae	0.0031482369645369
+Neisseriaceae	Unclassified	6.68913998965587e-06
+Neisseriaceae	Rikenellaceae	0.00361112049880692
+Neisseriaceae	Porphyromonadaceae	0.00298894614483163
+Neisseriaceae	Staphylococcaceae	-0.000682739500315268
+Neisseriaceae	Prevotellaceae	-0.00011401103408734
+Neisseriaceae	Clostridiales Family XI. Incertae Sedis	0.00245616058615389
+Neisseriaceae	Oxalobacteraceae	0.0020513995718452
+Neisseriaceae	Eubacteriaceae	0.00112828707281438
+Neisseriaceae	Verrucomicrobiaceae	0.00226617708510231
+Neisseriaceae	Micrococcaceae	-0.00126879340011227
+Unclassified	Lachnospiraceae	-0.000281076670117495
+Unclassified	Bacteroidaceae	2.4699173613498e-06
+Unclassified	Ruminococcaceae	0.000129215743806209
+Unclassified	Neisseriaceae	-0.000275308368145112
+Unclassified	Rikenellaceae	-9.32232379342483e-05
+Unclassified	Porphyromonadaceae	-0.000135196591156715
+Unclassified	Staphylococcaceae	-9.88965821767577e-05
+Unclassified	Prevotellaceae	0.000442004382947296
+Unclassified	Clostridiales Family XI. Incertae Sedis	0.000704755732173083
+Unclassified	Oxalobacteraceae	-0.00111997485217876
+Unclassified	Eubacteriaceae	-0.000466575202074322
+Unclassified	Verrucomicrobiaceae	-0.00135658342240868
+Unclassified	Micrococcaceae	7.58466027580264e-06
+Rikenellaceae	Lachnospiraceae	7.97410212810367e-05
+Rikenellaceae	Bacteroidaceae	-0.000339305013358901
+Rikenellaceae	Ruminococcaceae	-1.44633877215806e-05
+Rikenellaceae	Neisseriaceae	-0.000395705893004089
+Rikenellaceae	Unclassified	7.59580294382018e-05
+Rikenellaceae	Porphyromonadaceae	-0.000203074897179948
+Rikenellaceae	Staphylococcaceae	-8.47907674009727e-05
+Rikenellaceae	Prevotellaceae	0.00107216339009588
+Rikenellaceae	Clostridiales Family XI. Incertae Sedis	0.00130611896463619
+Rikenellaceae	Oxalobacteraceae	-0.00170818283036296
+Rikenellaceae	Eubacteriaceae	-0.000130128518128766
+Rikenellaceae	Verrucomicrobiaceae	-0.0008284693228141
+Rikenellaceae	Micrococcaceae	-0.000108110804539745
+Porphyromonadaceae	Lachnospiraceae	-0.000199685245647412
+Porphyromonadaceae	Bacteroidaceae	0.000175315258699543
+Porphyromonadaceae	Ruminococcaceae	0.000251635873641428
+Porphyromonadaceae	Neisseriaceae	-0.000234560705232363
+Porphyromonadaceae	Unclassified	-6.14189477798365e-05
+Porphyromonadaceae	Rikenellaceae	0.00108755137043988
+Porphyromonadaceae	Staphylococcaceae	-7.02608222311877e-06
+Porphyromonadaceae	Prevotellaceae	0.00255707623743255
+Porphyromonadaceae	Clostridiales Family XI. Incertae Sedis	0.00246032099103687
+Porphyromonadaceae	Oxalobacteraceae	0.000473651046706154
+Porphyromonadaceae	Eubacteriaceae	-0.000208908889195254
+Porphyromonadaceae	Verrucomicrobiaceae	0.000966281217215166
+Porphyromonadaceae	Micrococcaceae	1.11689132489111e-05
+Staphylococcaceae	Lachnospiraceae	0.00556650999548949
+Staphylococcaceae	Bacteroidaceae	0.0110870333295693
+Staphylococcaceae	Ruminococcaceae	0.00630638979187714
+Staphylococcaceae	Neisseriaceae	-0.00553991451865131
+Staphylococcaceae	Unclassified	-2.52365004868808e-05
+Staphylococcaceae	Rikenellaceae	0.00660456465434677
+Staphylococcaceae	Porphyromonadaceae	0.00831806764451833
+Staphylococcaceae	Prevotellaceae	0.00856956108930171
+Staphylococcaceae	Clostridiales Family XI. Incertae Sedis	0.00598239905072598
+Staphylococcaceae	Oxalobacteraceae	0.00121109958213333
+Staphylococcaceae	Eubacteriaceae	0.00312229740475548
+Staphylococcaceae	Verrucomicrobiaceae	0.0025782586188536
+Staphylococcaceae	Micrococcaceae	-0.00287961695981649
+Prevotellaceae	Lachnospiraceae	-0.000723762017652046
+Prevotellaceae	Bacteroidaceae	-0.00117200837426777
+Prevotellaceae	Ruminococcaceae	-0.00061280739607336
+Prevotellaceae	Neisseriaceae	1.10343296639523e-05
+Prevotellaceae	Unclassified	-3.44248184287266e-05
+Prevotellaceae	Rikenellaceae	-0.00129655195314428
+Prevotellaceae	Porphyromonadaceae	-0.000435196838456589
+Prevotellaceae	Staphylococcaceae	0.000344126259830161
+Prevotellaceae	Clostridiales Family XI. Incertae Sedis	0.00147478687428555
+Prevotellaceae	Oxalobacteraceae	-0.00168611803580648
+Prevotellaceae	Eubacteriaceae	-0.00126774618894168
+Prevotellaceae	Verrucomicrobiaceae	-0.000666302657783803
+Prevotellaceae	Micrococcaceae	0.000326666366430829
+Clostridiales Family XI. Incertae Sedis	Lachnospiraceae	6.37179210561577e-05
+Clostridiales Family XI. Incertae Sedis	Bacteroidaceae	0.00103066690833711
+Clostridiales Family XI. Incertae Sedis	Ruminococcaceae	0.000154942715100882
+Clostridiales Family XI. Incertae Sedis	Neisseriaceae	-0.000429812437675435
+Clostridiales Family XI. Incertae Sedis	Unclassified	7.37579644324888e-05
+Clostridiales Family XI. Incertae Sedis	Rikenellaceae	0.00054385847150829
+Clostridiales Family XI. Incertae Sedis	Porphyromonadaceae	0.000305310674585236
+Clostridiales Family XI. Incertae Sedis	Staphylococcaceae	-0.000426486707706244
+Clostridiales Family XI. Incertae Sedis	Prevotellaceae	-8.3771313383549e-05
+Clostridiales Family XI. Incertae Sedis	Oxalobacteraceae	-0.00112934704647906
+Clostridiales Family XI. Incertae Sedis	Eubacteriaceae	0.000458375815852056
+Clostridiales Family XI. Incertae Sedis	Verrucomicrobiaceae	0.00126888894502349
+Clostridiales Family XI. Incertae Sedis	Micrococcaceae	-0.000172947169760066
+Oxalobacteraceae	Lachnospiraceae	-0.000633591820470405
+Oxalobacteraceae	Bacteroidaceae	-0.000387404430195031
+Oxalobacteraceae	Ruminococcaceae	-0.000230431046045203
+Oxalobacteraceae	Neisseriaceae	7.51043990068466e-05
+Oxalobacteraceae	Unclassified	0.000180039658309517
+Oxalobacteraceae	Rikenellaceae	0.00037607849137592
+Oxalobacteraceae	Porphyromonadaceae	0.000647308823996749
+Oxalobacteraceae	Staphylococcaceae	-4.31623325982912e-05
+Oxalobacteraceae	Prevotellaceae	0.000171156359630202
+Oxalobacteraceae	Clostridiales Family XI. Incertae Sedis	-0.00056032942994237
+Oxalobacteraceae	Eubacteriaceae	-0.000432559164551043
+Oxalobacteraceae	Verrucomicrobiaceae	-0.000370992453145827
+Oxalobacteraceae	Micrococcaceae	0.000203910625678452
+Eubacteriaceae	Lachnospiraceae	-0.00049597175063909
+Eubacteriaceae	Bacteroidaceae	-7.7882372546452e-05
+Eubacteriaceae	Ruminococcaceae	-0.000496011852404516
+Eubacteriaceae	Neisseriaceae	4.3541345327373e-05
+Eubacteriaceae	Unclassified	-0.000222760537944789
+Eubacteriaceae	Rikenellaceae	0.000117844153068044
+Eubacteriaceae	Porphyromonadaceae	0.00100749353229745
+Eubacteriaceae	Staphylococcaceae	0.000125852012831924
+Eubacteriaceae	Prevotellaceae	0.00310978098893365
+Eubacteriaceae	Clostridiales Family XI. Incertae Sedis	0.00319447006037275
+Eubacteriaceae	Oxalobacteraceae	0.00048207421081131
+Eubacteriaceae	Verrucomicrobiaceae	0.000117730336385304
+Eubacteriaceae	Micrococcaceae	0.000565805426144844
+Verrucomicrobiaceae	Lachnospiraceae	-0.000144130330601376
+Verrucomicrobiaceae	Bacteroidaceae	-0.000112125482744036
+Verrucomicrobiaceae	Ruminococcaceae	-1.85676939949374e-06
+Verrucomicrobiaceae	Neisseriaceae	-0.000227894017532144
+Verrucomicrobiaceae	Unclassified	9.17286946786677e-06
+Verrucomicrobiaceae	Rikenellaceae	-0.000336502143510276
+Verrucomicrobiaceae	Porphyromonadaceae	-6.3990029228824e-06
+Verrucomicrobiaceae	Staphylococcaceae	-9.61026027255542e-05
+Verrucomicrobiaceae	Prevotellaceae	0.000863532488209643
+Verrucomicrobiaceae	Clostridiales Family XI. Incertae Sedis	0.000641750590612527
+Verrucomicrobiaceae	Oxalobacteraceae	-0.0011040644983359
+Verrucomicrobiaceae	Eubacteriaceae	-0.000176238962999072
+Verrucomicrobiaceae	Micrococcaceae	-4.14462707074407e-05
+Micrococcaceae	Lachnospiraceae	-0.0148250086518192
+Micrococcaceae	Bacteroidaceae	-0.0451657974468689
+Micrococcaceae	Ruminococcaceae	-0.00884850802674942
+Micrococcaceae	Neisseriaceae	0.0269938862891545
+Micrococcaceae	Unclassified	0.013995045860701
+Micrococcaceae	Rikenellaceae	-0.035624650166404
+Micrococcaceae	Porphyromonadaceae	-0.0321102623596512
+Micrococcaceae	Staphylococcaceae	0.00558134473833857
+Micrococcaceae	Prevotellaceae	0.00677242951755502
+Micrococcaceae	Clostridiales Family XI. Incertae Sedis	-0.0030606617608853
+Micrococcaceae	Oxalobacteraceae	-0.0339744305079616
+Micrococcaceae	Eubacteriaceae	-0.00562104760178468
+Micrococcaceae	Verrucomicrobiaceae	-0.00879561111392147
