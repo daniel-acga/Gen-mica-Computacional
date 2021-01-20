@@ -1,0 +1,31 @@
+Source	Target	Strength
+Micrococcaceae	Bacteroidaceae	-0.0452
+Micrococcaceae	Rikenellaceae	-0.0356
+Micrococcaceae	Oxalobacteraceae	-0.0340
+Micrococcaceae	Porphyromonadaceae	-0.0321
+Micrococcaceae	Neisseriaceae	0.0270
+Micrococcaceae	Lachnospiraceae	-0.0148
+Micrococcaceae	Unclassified	0.0140
+Staphylococcaceae	Bacteroidaceae	0.0111
+Micrococcaceae	Ruminococcaceae	-0.0088
+Micrococcaceae	Verrucomicrobiaceae	-0.0088
+Staphylococcaceae	Prevotellaceae	0.0086
+Staphylococcaceae	Porphyromonadaceae	0.0083
+Micrococcaceae	Prevotellaceae	0.0068
+Staphylococcaceae	Rikenellaceae	0.0066
+Staphylococcaceae	Ruminococcaceae	0.0063
+Staphylococcaceae	Clostridiales Family XI. Incertae Sedis	0.0060
+Neisseriaceae	Bacteroidaceae	0.0057
+Micrococcaceae	Eubacteriaceae	-0.0056
+Micrococcaceae	Staphylococcaceae	0.0056
+Staphylococcaceae	Lachnospiraceae	0.0056
+Staphylococcaceae	Neisseriaceae	-0.0055
+Neisseriaceae	Rikenellaceae	0.0036
+Eubacteriaceae	Clostridiales Family XI. Incertae Sedis	0.0032
+Neisseriaceae	Ruminococcaceae	0.0031
+Staphylococcaceae	Eubacteriaceae	0.0031
+Eubacteriaceae	Prevotellaceae	0.0031
+Micrococcaceae	Clostridiales Family XI. Incertae Sedis	-0.0031
+Neisseriaceae	Porphyromonadaceae	0.0030
+Staphylococcaceae	Micrococcaceae	-0.0029
+Staphylococcaceae	Verrucomicrobiaceae	0.0026
