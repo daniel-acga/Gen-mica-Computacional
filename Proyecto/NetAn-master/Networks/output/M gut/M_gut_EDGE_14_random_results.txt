@@ -1,0 +1,26 @@
+Random Analysis Results, Mean Measures:			runs(100)
+ - [/] order:	14
+ - [/] size:	30
+ - [u] diameter:	3.28
+ - [u] radius:	1.93
+ - [d] density:	0.1648351648351646
+ - [d] mean degree:	2.1428571428571406
+ - [d] clustering coefficient:	0.1533276633536706
+ - [/] maximum in degree:	4.59
+ - [/] maximum out degree:	4.73
+ - [d] hubs with max in degree:	1.77
+ - [d] hubs with max out degree:	1.56
+ - [u] modularity:	0.23874454027679082
+ - [u] coverage:	0.6077017051913604
+ - [u] performance:	0.7683516483516479
+ - [u] number of communities:	3.25
+ - [/] number of connected components:	1.12
+ - [d] number of strongly connected components:	4.49
+ - [u] number of cycles in cycle basis:	14.85
+
+
+
+[u] undirected associated graph
+[d] directed graph
+[/] both undirected and directed
+

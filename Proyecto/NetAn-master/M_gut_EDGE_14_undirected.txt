@@ -1,0 +1,190 @@
+
+
+Order:28
+
+
+
+Size:14
+
+
+
+Diameter (Undirected):NOT CONNECTED
+
+
+
+Radius (Undirected):NOT CONNECTED
+
+
+
+Density:0.037037037037037035
+
+
+
+Mean Degree:1.0
+
+
+
+Max Possible Degree:27
+
+
+
+Clustering Coefficient:0.0
+
+
+
+Max Degree Hubs:
+- Max Degree: 1
+- Number of Hubs with Max Degree: 28
+- Hubs with Max Degree: Lachnospiraceae,0.245568200978391,Bacteroidaceae,0.242801910987903,Ruminococcaceae,0.0984371435034064,Neisseriaceae,0.0593388945006956,Unclassified,0.0429065757464735,Rikenellaceae,0.039412061718524,Porphyromonadaceae,0.0356778307882392,Staphylococcaceae,0.0304367605413051,Prevotellaceae,0.0250894470544657,Clostridiales Family XI. Incertae Sedis,0.0221031281982001,Oxalobacteraceae,0.0139912770795208,Eubacteriaceae,0.0129604925433564,Verrucomicrobiaceae,0.0121178641878002,Micrococcaceae,0.0104122418205549
+
+
+
+Minimum Cut Node Set (Undirected):
+NOT CONNECTED
+
+
+
+Minimum Cut Edge Set (Undirected):
+NOT CONNECTED
+
+
+
+Connected Components:
+- Number of CC's: 14
+- Number of nodes in CC_1 : 2
+- Nodes in CC_1: 0.245568200978391,Lachnospiraceae
+- Number of nodes in CC_2 : 2
+- Nodes in CC_2: 0.242801910987903,Bacteroidaceae
+- Number of nodes in CC_3 : 2
+- Nodes in CC_3: Ruminococcaceae,0.0984371435034064
+- Number of nodes in CC_4 : 2
+- Nodes in CC_4: 0.0593388945006956,Neisseriaceae
+- Number of nodes in CC_5 : 2
+- Nodes in CC_5: Unclassified,0.0429065757464735
+- Number of nodes in CC_6 : 2
+- Nodes in CC_6: Rikenellaceae,0.039412061718524
+- Number of nodes in CC_7 : 2
+- Nodes in CC_7: 0.0356778307882392,Porphyromonadaceae
+- Number of nodes in CC_8 : 2
+- Nodes in CC_8: Staphylococcaceae,0.0304367605413051
+- Number of nodes in CC_9 : 2
+- Nodes in CC_9: Prevotellaceae,0.0250894470544657
+- Number of nodes in CC_10 : 2
+- Nodes in CC_10: 0.0221031281982001,Clostridiales Family XI. Incertae Sedis
+- Number of nodes in CC_11 : 2
+- Nodes in CC_11: Oxalobacteraceae,0.0139912770795208
+- Number of nodes in CC_12 : 2
+- Nodes in CC_12: Eubacteriaceae,0.0129604925433564
+- Number of nodes in CC_13 : 2
+- Nodes in CC_13: 0.0121178641878002,Verrucomicrobiaceae
+- Number of nodes in CC_14 : 2
+- Nodes in CC_14: Micrococcaceae,0.0104122418205549
+
+
+
+
+Strongly Connected Components:
+NOT DIRECTED
+
+
+
+Max Cliques:
+- Number of Maximal Cliques: 14
+- Number of nodes in Maximal Clique 1 : 2
+- Nodes in Clique_1: 0.245568200978391,Lachnospiraceae
+- Number of nodes in Maximal Clique 2 : 2
+- Nodes in Clique_2: 0.0304367605413051,Staphylococcaceae
+- Number of nodes in Maximal Clique 3 : 2
+- Nodes in Clique_3: 0.0129604925433564,Eubacteriaceae
+- Number of nodes in Maximal Clique 4 : 2
+- Nodes in Clique_4: Verrucomicrobiaceae,0.0121178641878002
+- Number of nodes in Maximal Clique 5 : 2
+- Nodes in Clique_5: Oxalobacteraceae,0.0139912770795208
+- Number of nodes in Maximal Clique 6 : 2
+- Nodes in Clique_6: Unclassified,0.0429065757464735
+- Number of nodes in Maximal Clique 7 : 2
+- Nodes in Clique_7: Clostridiales Family XI. Incertae Sedis,0.0221031281982001
+- Number of nodes in Maximal Clique 8 : 2
+- Nodes in Clique_8: Neisseriaceae,0.0593388945006956
+- Number of nodes in Maximal Clique 9 : 2
+- Nodes in Clique_9: 0.0250894470544657,Prevotellaceae
+- Number of nodes in Maximal Clique 10 : 2
+- Nodes in Clique_10: 0.0984371435034064,Ruminococcaceae
+- Number of nodes in Maximal Clique 11 : 2
+- Nodes in Clique_11: Micrococcaceae,0.0104122418205549
+- Number of nodes in Maximal Clique 12 : 2
+- Nodes in Clique_12: Porphyromonadaceae,0.0356778307882392
+- Number of nodes in Maximal Clique 13 : 2
+- Nodes in Clique_13: 0.039412061718524,Rikenellaceae
+- Number of nodes in Maximal Clique 14 : 2
+- Nodes in Clique_14: Bacteroidaceae,0.242801910987903
+
+
+
+
+Cycle Basis (Undirected):
+- Number Cycles in CB: 0
+
+
+
+
+Maximal Independet Set (might be repeated):
+- Independent Set: 1
+- Number of nodes in this maximal independent set: 14
+- Nodes in this maximal independent set: 0.0356778307882392,Verrucomicrobiaceae,Prevotellaceae,Oxalobacteraceae,0.242801910987903,Unclassified,0.0221031281982001,Ruminococcaceae,0.0129604925433564,Lachnospiraceae,0.0104122418205549,Staphylococcaceae,0.039412061718524,0.0593388945006956
+- Independent Set: 2
+- Number of nodes in this maximal independent set: 14
+- Nodes in this maximal independent set: 0.0250894470544657,0.245568200978391,Oxalobacteraceae,Unclassified,Clostridiales Family XI. Incertae Sedis,Ruminococcaceae,0.0356778307882392,Verrucomicrobiaceae,Rikenellaceae,0.0304367605413051,0.0593388945006956,0.0129604925433564,Bacteroidaceae,Micrococcaceae
+- Independent Set: 3
+- Number of nodes in this maximal independent set: 14
+- Nodes in this maximal independent set: Ruminococcaceae,0.0304367605413051,Lachnospiraceae,Unclassified,Verrucomicrobiaceae,Prevotellaceae,0.0356778307882392,0.0593388945006956,Clostridiales Family XI. Incertae Sedis,Bacteroidaceae,0.0104122418205549,0.0139912770795208,0.039412061718524,0.0129604925433564
+- Independent Set: 4
+- Number of nodes in this maximal independent set: 14
+- Nodes in this maximal independent set: Neisseriaceae,0.039412061718524,Unclassified,Ruminococcaceae,0.0250894470544657,0.0356778307882392,Eubacteriaceae,Clostridiales Family XI. Incertae Sedis,0.0121178641878002,Lachnospiraceae,Micrococcaceae,0.0139912770795208,0.0304367605413051,Bacteroidaceae
+- Independent Set: 5
+- Number of nodes in this maximal independent set: 14
+- Nodes in this maximal independent set: 0.0984371435034064,0.0104122418205549,0.0121178641878002,0.0593388945006956,0.245568200978391,0.0139912770795208,Bacteroidaceae,Prevotellaceae,0.039412061718524,0.0356778307882392,Eubacteriaceae,0.0304367605413051,Unclassified,0.0221031281982001
+
+
+
+
+Degree Distribution:
+- Degree distribution:0,28
+
+
+
+Communities (Undirected):
+- Modularity: 0.9285714285714287
+- Coverage: 1.0
+- Performance: 1.0
+- Number of Communities: 14
+- Number of nodes in community 1: 2
+- Nodes in C_1: 0.245568200978391,Lachnospiraceae
+- Number of nodes in community 2: 2
+- Nodes in C_2: 0.242801910987903,Bacteroidaceae
+- Number of nodes in community 3: 2
+- Nodes in C_3: Ruminococcaceae,0.0984371435034064
+- Number of nodes in community 4: 2
+- Nodes in C_4: 0.0593388945006956,Neisseriaceae
+- Number of nodes in community 5: 2
+- Nodes in C_5: Unclassified,0.0429065757464735
+- Number of nodes in community 6: 2
+- Nodes in C_6: Rikenellaceae,0.039412061718524
+- Number of nodes in community 7: 2
+- Nodes in C_7: 0.0356778307882392,Porphyromonadaceae
+- Number of nodes in community 8: 2
+- Nodes in C_8: Staphylococcaceae,0.0304367605413051
+- Number of nodes in community 9: 2
+- Nodes in C_9: Prevotellaceae,0.0250894470544657
+- Number of nodes in community 10: 2
+- Nodes in C_10: 0.0221031281982001,Clostridiales Family XI. Incertae Sedis
+- Number of nodes in community 11: 2
+- Nodes in C_11: Oxalobacteraceae,0.0139912770795208
+- Number of nodes in community 12: 2
+- Nodes in C_12: Eubacteriaceae,0.0129604925433564
+- Number of nodes in community 13: 2
+- Nodes in C_13: 0.0121178641878002,Verrucomicrobiaceae
+- Number of nodes in community 14: 2
+- Nodes in C_14: Micrococcaceae,0.0104122418205549
+
+

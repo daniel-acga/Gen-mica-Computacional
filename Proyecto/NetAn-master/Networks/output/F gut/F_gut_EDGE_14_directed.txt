@@ -1,0 +1,199 @@
+
+
+Order:14
+
+
+
+Size:30
+
+
+
+Diameter (Undirected):3
+
+
+
+Radius (Undirected):2
+
+
+
+Density:0.16483516483516483
+
+
+
+Mean Degree:2.142857142857143
+
+
+
+Max Possible Degree:13
+
+
+
+Clustering Coefficient:0.5402339723768296
+
+
+
+Max Degree Hubs:
+- Max In Degree: 3
+- Number of Hubs with Max In Degree: 6
+- Hubs with Max In Degree: Verrucomicrobiaceae,Oxalobacteraceae,Nitrosomonadaceae,Enterobacteriaceae,Prevotellaceae,Unclassified
+- Max Out Degree: 12
+- Number of Hubs with Max Out Degree: 1
+- Hubs with Max Out Degree: Staphylococcaceae
+
+
+
+Minimum Cut Node Set (Undirected):
+- Number of Vertices in MinCut Set: 1
+- Vertices in MinCut Set: Staphylococcaceae
+
+
+
+Minimum Cut Edge Set (Undirected):
+- Number of Edges in MinCut Set: 1
+- Edges in MinCut Set: ('Lactobacillaceae', 'Eubacteriaceae')
+
+
+
+Connected Components:
+- Number of CC's: 1
+- Number of nodes in CC_1 : 14
+- Nodes in CC_1: Verrucomicrobiaceae,Eubacteriaceae,Prevotellaceae,Erysipelotrichaceae,Enterobacteriaceae,Nitrosomonadaceae,Bacteroidaceae,Unclassified,Staphylococcaceae,Lachnospiraceae,Oxalobacteraceae,Corynebacteriaceae,Lactobacillaceae,Ruminococcaceae
+
+
+
+
+Strongly Connected Components:
+- Number of SCC's: 13
+- Number of nodes in SCC_1 : 1
+- Nodes in SCC_1: Verrucomicrobiaceae
+- Number of nodes in SCC_2 : 1
+- Nodes in SCC_2: Oxalobacteraceae
+- Number of nodes in SCC_3 : 1
+- Nodes in SCC_3: Nitrosomonadaceae
+- Number of nodes in SCC_4 : 1
+- Nodes in SCC_4: Prevotellaceae
+- Number of nodes in SCC_5 : 1
+- Nodes in SCC_5: Enterobacteriaceae
+- Number of nodes in SCC_6 : 1
+- Nodes in SCC_6: Unclassified
+- Number of nodes in SCC_7 : 1
+- Nodes in SCC_7: Ruminococcaceae
+- Number of nodes in SCC_8 : 1
+- Nodes in SCC_8: Bacteroidaceae
+- Number of nodes in SCC_9 : 1
+- Nodes in SCC_9: Erysipelotrichaceae
+- Number of nodes in SCC_10 : 1
+- Nodes in SCC_10: Eubacteriaceae
+- Number of nodes in SCC_11 : 1
+- Nodes in SCC_11: Lactobacillaceae
+- Number of nodes in SCC_12 : 1
+- Nodes in SCC_12: Lachnospiraceae
+- Number of nodes in SCC_13 : 2
+- Nodes in SCC_13: Corynebacteriaceae,Staphylococcaceae
+
+
+
+
+Max Cliques:
+- Number of Maximal Cliques: 11
+- Number of nodes in Maximal Clique 1 : 2
+- Nodes in Clique_1: Eubacteriaceae,Lactobacillaceae
+- Number of nodes in Maximal Clique 2 : 2
+- Nodes in Clique_2: Staphylococcaceae,Lachnospiraceae
+- Number of nodes in Maximal Clique 3 : 3
+- Nodes in Clique_3: Staphylococcaceae,Corynebacteriaceae,Erysipelotrichaceae
+- Number of nodes in Maximal Clique 4 : 3
+- Nodes in Clique_4: Staphylococcaceae,Corynebacteriaceae,Ruminococcaceae
+- Number of nodes in Maximal Clique 5 : 4
+- Nodes in Clique_5: Staphylococcaceae,Corynebacteriaceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Maximal Clique 6 : 4
+- Nodes in Clique_6: Staphylococcaceae,Corynebacteriaceae,Lactobacillaceae,Prevotellaceae
+- Number of nodes in Maximal Clique 7 : 4
+- Nodes in Clique_7: Staphylococcaceae,Corynebacteriaceae,Lactobacillaceae,Enterobacteriaceae
+- Number of nodes in Maximal Clique 8 : 4
+- Nodes in Clique_8: Staphylococcaceae,Corynebacteriaceae,Lactobacillaceae,Nitrosomonadaceae
+- Number of nodes in Maximal Clique 9 : 4
+- Nodes in Clique_9: Staphylococcaceae,Corynebacteriaceae,Lactobacillaceae,Unclassified
+- Number of nodes in Maximal Clique 10 : 4
+- Nodes in Clique_10: Staphylococcaceae,Corynebacteriaceae,Lactobacillaceae,Oxalobacteraceae
+- Number of nodes in Maximal Clique 11 : 3
+- Nodes in Clique_11: Staphylococcaceae,Corynebacteriaceae,Bacteroidaceae
+
+
+
+
+Cycle Basis (Undirected):
+- Number Cycles in CB: 16
+- Number of nodes in Cycle 1: 3
+- Nodes in Cycle_1: Staphylococcaceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 2: 3
+- Nodes in Cycle_2: Corynebacteriaceae,Lactobacillaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 3: 3
+- Nodes in Cycle_3: Staphylococcaceae,Unclassified,Lactobacillaceae
+- Number of nodes in Cycle 4: 3
+- Nodes in Cycle_4: Corynebacteriaceae,Unclassified,Lactobacillaceae
+- Number of nodes in Cycle 5: 3
+- Nodes in Cycle_5: Staphylococcaceae,Oxalobacteraceae,Lactobacillaceae
+- Number of nodes in Cycle 6: 3
+- Nodes in Cycle_6: Corynebacteriaceae,Oxalobacteraceae,Lactobacillaceae
+- Number of nodes in Cycle 7: 3
+- Nodes in Cycle_7: Staphylococcaceae,Enterobacteriaceae,Lactobacillaceae
+- Number of nodes in Cycle 8: 3
+- Nodes in Cycle_8: Corynebacteriaceae,Enterobacteriaceae,Lactobacillaceae
+- Number of nodes in Cycle 9: 3
+- Nodes in Cycle_9: Staphylococcaceae,Nitrosomonadaceae,Lactobacillaceae
+- Number of nodes in Cycle 10: 3
+- Nodes in Cycle_10: Corynebacteriaceae,Nitrosomonadaceae,Lactobacillaceae
+- Number of nodes in Cycle 11: 3
+- Nodes in Cycle_11: Staphylococcaceae,Prevotellaceae,Lactobacillaceae
+- Number of nodes in Cycle 12: 3
+- Nodes in Cycle_12: Corynebacteriaceae,Prevotellaceae,Lactobacillaceae
+- Number of nodes in Cycle 13: 3
+- Nodes in Cycle_13: Staphylococcaceae,Corynebacteriaceae,Verrucomicrobiaceae
+- Number of nodes in Cycle 14: 3
+- Nodes in Cycle_14: Staphylococcaceae,Erysipelotrichaceae,Corynebacteriaceae
+- Number of nodes in Cycle 15: 3
+- Nodes in Cycle_15: Staphylococcaceae,Bacteroidaceae,Corynebacteriaceae
+- Number of nodes in Cycle 16: 3
+- Nodes in Cycle_16: Staphylococcaceae,Ruminococcaceae,Corynebacteriaceae
+
+
+
+
+Maximal Independet Set (might be repeated):
+- Independent Set: 1
+- Number of nodes in this maximal independent set: 5
+- Nodes in this maximal independent set: Lactobacillaceae,Bacteroidaceae,Erysipelotrichaceae,Ruminococcaceae,Lachnospiraceae
+- Independent Set: 2
+- Number of nodes in this maximal independent set: 11
+- Nodes in this maximal independent set: Enterobacteriaceae,Erysipelotrichaceae,Bacteroidaceae,Unclassified,Lachnospiraceae,Prevotellaceae,Ruminococcaceae,Verrucomicrobiaceae,Oxalobacteraceae,Eubacteriaceae,Nitrosomonadaceae
+- Independent Set: 3
+- Number of nodes in this maximal independent set: 11
+- Nodes in this maximal independent set: Ruminococcaceae,Nitrosomonadaceae,Erysipelotrichaceae,Oxalobacteraceae,Eubacteriaceae,Enterobacteriaceae,Verrucomicrobiaceae,Prevotellaceae,Bacteroidaceae,Lachnospiraceae,Unclassified
+- Independent Set: 4
+- Number of nodes in this maximal independent set: 2
+- Nodes in this maximal independent set: Staphylococcaceae,Eubacteriaceae
+- Independent Set: 5
+- Number of nodes in this maximal independent set: 11
+- Nodes in this maximal independent set: Prevotellaceae,Lachnospiraceae,Unclassified,Enterobacteriaceae,Eubacteriaceae,Ruminococcaceae,Nitrosomonadaceae,Verrucomicrobiaceae,Erysipelotrichaceae,Bacteroidaceae,Oxalobacteraceae
+
+
+
+
+Degree Distribution:
+- In Degree distribution:0,4,4,6
+- Out Degree distribution:11,0,0,0,0,0,0,1,0,0,0,1,1
+
+
+
+Communities (Undirected):
+- Modularity: 0.061236623067776455
+- Coverage: 0.6206896551724138
+- Performance: 0.5714285714285714
+- Number of Communities: 2
+- Number of nodes in community 1: 9
+- Nodes in C_1: Erysipelotrichaceae,Enterobacteriaceae,Nitrosomonadaceae,Bacteroidaceae,Unclassified,Staphylococcaceae,Lachnospiraceae,Corynebacteriaceae,Ruminococcaceae
+- Number of nodes in community 2: 5
+- Nodes in C_2: Verrucomicrobiaceae,Eubacteriaceae,Prevotellaceae,Oxalobacteraceae,Lactobacillaceae
+
+

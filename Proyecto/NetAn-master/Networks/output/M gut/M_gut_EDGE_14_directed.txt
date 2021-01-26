@@ -1,0 +1,199 @@
+
+
+Order:14
+
+
+
+Size:30
+
+
+
+Diameter (Undirected):2
+
+
+
+Radius (Undirected):1
+
+
+
+Density:0.16483516483516483
+
+
+
+Mean Degree:2.142857142857143
+
+
+
+Max Possible Degree:13
+
+
+
+Clustering Coefficient:0.5126984126984128
+
+
+
+Max Degree Hubs:
+- Max In Degree: 3
+- Number of Hubs with Max In Degree: 6
+- Hubs with Max In Degree: Bacteroidaceae,Rikenellaceae,Porphyromonadaceae,Ruminococcaceae,Prevotellaceae,Clostridiales Family XI. Incertae Sedis
+- Max Out Degree: 13
+- Number of Hubs with Max Out Degree: 1
+- Hubs with Max Out Degree: Micrococcaceae
+
+
+
+Minimum Cut Node Set (Undirected):
+- Number of Vertices in MinCut Set: 1
+- Vertices in MinCut Set: Micrococcaceae
+
+
+
+Minimum Cut Edge Set (Undirected):
+- Number of Edges in MinCut Set: 1
+- Edges in MinCut Set: ('Micrococcaceae', 'Unclassified')
+
+
+
+Connected Components:
+- Number of CC's: 1
+- Number of nodes in CC_1 : 14
+- Nodes in CC_1: Lachnospiraceae,Neisseriaceae,Bacteroidaceae,Prevotellaceae,Verrucomicrobiaceae,Oxalobacteraceae,Ruminococcaceae,Eubacteriaceae,Porphyromonadaceae,Rikenellaceae,Micrococcaceae,Unclassified,Staphylococcaceae,Clostridiales Family XI. Incertae Sedis
+
+
+
+
+Strongly Connected Components:
+- Number of SCC's: 13
+- Number of nodes in SCC_1 : 1
+- Nodes in SCC_1: Bacteroidaceae
+- Number of nodes in SCC_2 : 1
+- Nodes in SCC_2: Rikenellaceae
+- Number of nodes in SCC_3 : 1
+- Nodes in SCC_3: Oxalobacteraceae
+- Number of nodes in SCC_4 : 1
+- Nodes in SCC_4: Porphyromonadaceae
+- Number of nodes in SCC_5 : 1
+- Nodes in SCC_5: Ruminococcaceae
+- Number of nodes in SCC_6 : 1
+- Nodes in SCC_6: Neisseriaceae
+- Number of nodes in SCC_7 : 1
+- Nodes in SCC_7: Lachnospiraceae
+- Number of nodes in SCC_8 : 1
+- Nodes in SCC_8: Unclassified
+- Number of nodes in SCC_9 : 1
+- Nodes in SCC_9: Verrucomicrobiaceae
+- Number of nodes in SCC_10 : 1
+- Nodes in SCC_10: Prevotellaceae
+- Number of nodes in SCC_11 : 1
+- Nodes in SCC_11: Clostridiales Family XI. Incertae Sedis
+- Number of nodes in SCC_12 : 1
+- Nodes in SCC_12: Eubacteriaceae
+- Number of nodes in SCC_13 : 2
+- Nodes in SCC_13: Micrococcaceae,Staphylococcaceae
+
+
+
+
+Max Cliques:
+- Number of Maximal Cliques: 10
+- Number of nodes in Maximal Clique 1 : 2
+- Nodes in Clique_1: Micrococcaceae,Unclassified
+- Number of nodes in Maximal Clique 2 : 2
+- Nodes in Clique_2: Micrococcaceae,Oxalobacteraceae
+- Number of nodes in Maximal Clique 3 : 3
+- Nodes in Clique_3: Micrococcaceae,Staphylococcaceae,Lachnospiraceae
+- Number of nodes in Maximal Clique 4 : 4
+- Nodes in Clique_4: Micrococcaceae,Staphylococcaceae,Neisseriaceae,Rikenellaceae
+- Number of nodes in Maximal Clique 5 : 4
+- Nodes in Clique_5: Micrococcaceae,Staphylococcaceae,Neisseriaceae,Ruminococcaceae
+- Number of nodes in Maximal Clique 6 : 4
+- Nodes in Clique_6: Micrococcaceae,Staphylococcaceae,Neisseriaceae,Bacteroidaceae
+- Number of nodes in Maximal Clique 7 : 4
+- Nodes in Clique_7: Micrococcaceae,Staphylococcaceae,Neisseriaceae,Porphyromonadaceae
+- Number of nodes in Maximal Clique 8 : 4
+- Nodes in Clique_8: Micrococcaceae,Staphylococcaceae,Prevotellaceae,Eubacteriaceae
+- Number of nodes in Maximal Clique 9 : 3
+- Nodes in Clique_9: Micrococcaceae,Staphylococcaceae,Verrucomicrobiaceae
+- Number of nodes in Maximal Clique 10 : 4
+- Nodes in Clique_10: Micrococcaceae,Staphylococcaceae,Eubacteriaceae,Clostridiales Family XI. Incertae Sedis
+
+
+
+
+Cycle Basis (Undirected):
+- Number Cycles in CB: 16
+- Number of nodes in Cycle 1: 3
+- Nodes in Cycle_1: Micrococcaceae,Staphylococcaceae,Lachnospiraceae
+- Number of nodes in Cycle 2: 3
+- Nodes in Cycle_2: Micrococcaceae,Verrucomicrobiaceae,Staphylococcaceae
+- Number of nodes in Cycle 3: 3
+- Nodes in Cycle_3: Micrococcaceae,Eubacteriaceae,Staphylococcaceae
+- Number of nodes in Cycle 4: 3
+- Nodes in Cycle_4: Clostridiales Family XI. Incertae Sedis,Eubacteriaceae,Staphylococcaceae
+- Number of nodes in Cycle 5: 3
+- Nodes in Cycle_5: Prevotellaceae,Eubacteriaceae,Staphylococcaceae
+- Number of nodes in Cycle 6: 3
+- Nodes in Cycle_6: Micrococcaceae,Neisseriaceae,Staphylococcaceae
+- Number of nodes in Cycle 7: 3
+- Nodes in Cycle_7: Bacteroidaceae,Neisseriaceae,Staphylococcaceae
+- Number of nodes in Cycle 8: 3
+- Nodes in Cycle_8: Rikenellaceae,Neisseriaceae,Staphylococcaceae
+- Number of nodes in Cycle 9: 3
+- Nodes in Cycle_9: Ruminococcaceae,Neisseriaceae,Staphylococcaceae
+- Number of nodes in Cycle 10: 3
+- Nodes in Cycle_10: Porphyromonadaceae,Neisseriaceae,Staphylococcaceae
+- Number of nodes in Cycle 11: 3
+- Nodes in Cycle_11: Micrococcaceae,Clostridiales Family XI. Incertae Sedis,Staphylococcaceae
+- Number of nodes in Cycle 12: 3
+- Nodes in Cycle_12: Micrococcaceae,Ruminococcaceae,Staphylococcaceae
+- Number of nodes in Cycle 13: 3
+- Nodes in Cycle_13: Micrococcaceae,Rikenellaceae,Staphylococcaceae
+- Number of nodes in Cycle 14: 3
+- Nodes in Cycle_14: Micrococcaceae,Porphyromonadaceae,Staphylococcaceae
+- Number of nodes in Cycle 15: 3
+- Nodes in Cycle_15: Micrococcaceae,Prevotellaceae,Staphylococcaceae
+- Number of nodes in Cycle 16: 3
+- Nodes in Cycle_16: Micrococcaceae,Bacteroidaceae,Staphylococcaceae
+
+
+
+
+Maximal Independet Set (might be repeated):
+- Independent Set: 1
+- Number of nodes in this maximal independent set: 10
+- Nodes in this maximal independent set: Lachnospiraceae,Prevotellaceae,Verrucomicrobiaceae,Unclassified,Oxalobacteraceae,Bacteroidaceae,Clostridiales Family XI. Incertae Sedis,Porphyromonadaceae,Ruminococcaceae,Rikenellaceae
+- Independent Set: 2
+- Number of nodes in this maximal independent set: 10
+- Nodes in this maximal independent set: Prevotellaceae,Clostridiales Family XI. Incertae Sedis,Ruminococcaceae,Oxalobacteraceae,Verrucomicrobiaceae,Porphyromonadaceae,Unclassified,Rikenellaceae,Bacteroidaceae,Lachnospiraceae
+- Independent Set: 3
+- Number of nodes in this maximal independent set: 10
+- Nodes in this maximal independent set: Rikenellaceae,Lachnospiraceae,Porphyromonadaceae,Bacteroidaceae,Ruminococcaceae,Prevotellaceae,Oxalobacteraceae,Unclassified,Verrucomicrobiaceae,Clostridiales Family XI. Incertae Sedis
+- Independent Set: 4
+- Number of nodes in this maximal independent set: 10
+- Nodes in this maximal independent set: Prevotellaceae,Lachnospiraceae,Bacteroidaceae,Unclassified,Oxalobacteraceae,Verrucomicrobiaceae,Clostridiales Family XI. Incertae Sedis,Porphyromonadaceae,Ruminococcaceae,Rikenellaceae
+- Independent Set: 5
+- Number of nodes in this maximal independent set: 1
+- Nodes in this maximal independent set: Micrococcaceae
+
+
+
+
+Degree Distribution:
+- In Degree distribution:0,4,4,6
+- Out Degree distribution:10,0,1,0,1,0,0,0,0,0,0,1,0,1
+
+
+
+Communities (Undirected):
+- Modularity: 0.11355529131985731
+- Coverage: 0.4482758620689655
+- Performance: 0.6813186813186813
+- Number of Communities: 3
+- Number of nodes in community 1: 5
+- Nodes in C_1: Rikenellaceae,Neisseriaceae,Bacteroidaceae,Ruminococcaceae,Porphyromonadaceae
+- Number of nodes in community 2: 5
+- Nodes in C_2: Lachnospiraceae,Micrococcaceae,Unclassified,Verrucomicrobiaceae,Oxalobacteraceae
+- Number of nodes in community 3: 4
+- Nodes in C_3: Eubacteriaceae,Staphylococcaceae,Clostridiales Family XI. Incertae Sedis,Prevotellaceae
+
+
