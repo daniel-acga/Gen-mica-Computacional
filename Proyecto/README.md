@@ -222,26 +222,26 @@ Red ​ ​ Femenina
 Fig 9. Red de interacción femenina filtrada por NetAn.
 
 - [] number of connected components 1.
-[u] undirected associated graph
-[d] directed graph
-[] order Random Analysis Results, Mean Measures runs(100)
-[] size
-[u] diameter 3.
-[u] radius 1.
-[d] density 0.
-[d] mean degree 2.
-[d] clustering coefficient 0.
-[] maximum in degree 4.
-[] maximum out degree 4.
-[d] hubs with max in degree 1.
-[d] hubs with max out degree 1.
-[u] modularity 0.
-[u] coverage 0.
-[u] performance 0.
-[u] number of communities 3.
-[] number of connected components 1.
-[d] number of strongly connected components 3.
-[u] number of cycles in cycle basis 14.
+- [u] undirected associated graph
+- [d] directed graph
+- [] order Random Analysis Results, Mean Measures runs(100)
+- [] size
+- [u] diameter 3.
+- [u] radius 1.
+- [d] density 0.
+- [d] mean degree 2.
+- [d] clustering coefficient 0.
+- [] maximum in degree 4.
+- [] maximum out degree 4.
+- [d] hubs with max in degree 1.
+- [d] hubs with max out degree 1.
+- [u] modularity 0.
+- [u] coverage 0.
+- [u] performance 0.
+- [u] number of communities 3.
+- [] number of connected components 1.
+- [d] number of strongly connected components 3.
+- [u] number of cycles in cycle basis 14.
 
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_distribution_indegree.png)
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_distribution_outdegree.png)
@@ -274,26 +274,26 @@ Fig 11. Red de interacción masculina filtrada por NetAn.
 
 - [] order Random Analysis Results, Mean Measures runs(100)
 - [] size
-[] size 30
+- [] size 30
 - [u] diameter 3.
-[u] radius 1.
-[d] density 0.
-[d] mean degree 2.
-[d] clustering coefficient 0.
-[] maximum in degree 4.
-[] maximum out degree 4.
-[d] hubs with max in degree 1.
-[d] hubs with max out degree1.
-[u] modularity 0.
-[u] coverage0.
-[u] performance 0.
-[u] number of communities 3.
-[] number of connected components 1.
-[d] number of strongly connected components4.
-[u] number of cycles in cycle basis 14.
-[u] undirected associated graph
-[d] directed graph
-[] both undirected and directed
+- [u] radius 1.
+- [d] density 0.
+- [d] mean degree 2.
+- [d] clustering coefficient 0.
+- [] maximum in degree 4.
+- [] maximum out degree 4.
+- [d] hubs with max in degree 1.
+- [d] hubs with max out degree1.
+- [u] modularity 0.
+- [u] coverage0.
+- [u] performance 0.
+- [u] number of communities 3.
+- [] number of connected components 1.
+- [d] number of strongly connected components4.
+- [u] number of cycles in cycle basis 14.
+- [u] undirected associated graph
+- [d] directed graph
+- [] both undirected and directed
 
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_indegree.png)
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_outdegree.png)
