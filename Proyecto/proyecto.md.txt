@@ -1,8 +1,7 @@
-Proyecto Final
-Genómica Computacional 2021-
-Interacciones de la comunidad bacteriana asociada al
-Microbioma intestinal diferenciado por sexo.
-Integrantes
+# Proyecto Final
+# Genómica Computacional 2021-
+## Interacciones de la comunidad bacteriana asociada al Microbioma intestinal diferenciado por sexo.
+### Integrantes
 
 Muñoz Barón Luis Miguel (315116663)
 Acosta Daniel Enrique (315124772)
@@ -12,7 +11,7 @@ Conde Alonzo Vanessa Xochitl (316105408)
 Austria López Astrid (316115607)
 
 
-1. Introducción
+### 1. Introducción
 El metabarcoding aprovecha la determinación de primers “barcode” para taxa específicos que
 permiten recuperar información de solo un grupo de organismos y llegar a determinar la
 representación de estos en la comunidad. Esto presenta muchas ventajas ya que el desarrollo de
@@ -65,17 +64,19 @@ Fig. 1. ​ ​Las familias de bacterias dominantes del intestino delgado y el c
 del intestino. Los phyla bacterianos dominantes en el intestino son Bacteroidetes, Firmicutes, Actinobacteria,
 Proteobacteria y Verrucomicrobia. Imagen proveniente de Donaldson et al. (2015).
 
-2. Objetivos
+### 2. Objetivos
 a. Modelar la red de interacciones ecológicas de la comunidad bacteriana del
 microbioma intestinal de un sujeto de cada sexo
 b. Identificar motivos de interacción en las comunidades bacterianas del sistema
 digestivo mediante el análisis de muestras de 16S rRNA.
 c. Determinar la estructura de las redes asociadas con el origen de las interacciones
 entre taxa bacterianos.
-3.Hipótesis
+
+### 3.Hipótesis
 Al modelar las interacciones entre la comunidad bacteriana de taxa más abundantes se observará
 una dinámica de interacción estructuralmente similar en el sujeto mujer y en el hombre.
-4. Método
+
+### 4. Método
 
 Se utilizaron datos provenientes del artículo de Caropaso y colaboradores de 2011. En ellos se
 estudió a la microbiota intestinal (a partir de heces) de un hombre y una mujer sanos por 15 meses
@@ -97,7 +98,7 @@ taxonómicos, identificar posibles motivos de interacciones específicas y evalu
 características topológicas como densidad, grado medio, concentradores, componentes
 conectados, modularidad del coeficiente de agrupamiento asociado a las comunidades.
 
-5. Resultados
+### 5. Resultados
 Análisis de la red interacción por medio de MetaMIS
 Fig 2. Perfil de abundancia original y predecida en sujeto hombre (A)
 
@@ -276,7 +277,7 @@ reportados sobre una correlación significativa que presentan estas medidas topo
 mismo origen, sin embargo esto no refleja que dos métricas tienen propiedades idénticas y aún
 puedan divergir en diferentes modelos.
 
-6. Conclusiones
+### 6. Conclusiones
 De la información recopilada y procesada de ambas muestras intestinales pudimos observar
 variación entre ellas, probablemente debido a un número limitado de elementos y tiempos distintos
 de muestreo (15 meses para la muestra masculina y 6 meses para la muestra femenina).
@@ -289,7 +290,7 @@ familias que se han reportado anteriormente como parte de nuestro tracto digesti
 diferencias marcadas entre las familias probablemente sean por la falta de control en la toma de los
 datos y la diferencia de tiempo.
 
-7. Referencias
+### 7. Referencias
 Blondel, V. D., Guillaume, J. -L., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in
 large networks. ​ Journal of Statistical Mechanics Theory and Experiment, 2008 ​(10), 1–12.
 Caporaso, J. G., Lauber, C. L., Costello, E. K., Berg-Lyons, D., Gonzalez, A., Stombaugh, J., Knights, D.,
