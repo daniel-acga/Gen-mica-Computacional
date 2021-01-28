@@ -12,10 +12,10 @@ Austria López Astrid (316115607)
 
 
 ### 1. Introducción
-El metabarcoding aprovecha la determinación de primers “barcode” para taxa específicos que
-permiten recuperar información de solo un grupo de organismos y llegar a determinar la
+El metabarcoding aprovecha la determinación de primers “barcode” de taxa específicos (ej: subunidad 16S 
+de rDNA en bacterias) que recuperan información de solo un grupo de organismos y llegar a determinar la
 representación de estos en la comunidad. Esto presenta muchas ventajas ya que el desarrollo de
-primers “barcode” para taxones de distinto nivel ha aumentado durante las últimas décadas
+primers “barcode” para taxa de distinto nivel ha aumentado durante las últimas décadas
 permitiendo que se lleven a cabo cada vez más estudios ecológicos y funcionales de este tipo.
 (Ficetola et al, 2014).
 La estandarización de los métodos de análisis de DNA ambiental por medio de la secuenciación de
@@ -81,6 +81,8 @@ una dinámica de interacción estructuralmente similar en el sujeto mujer y en e
 
 ### 4. Método
 
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Data/gut_microbiome_Donaldson2015.jpg)
+
 Se utilizaron datos provenientes del artículo de Caropaso y colaboradores de 2011. En ellos se
 estudió a la microbiota intestinal (a partir de heces) de un hombre y una mujer sanos por 15 meses
 y por 6 meses respectivamente. Usando la taxonomía de Greengenes, el número total de taxones
@@ -103,30 +105,41 @@ conectados, modularidad del coeficiente de agrupamiento asociado a las comunidad
 
 ### 5. Resultados
 Análisis de la red interacción por medio de MetaMIS
+
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_M.jpg)
+
 Fig 2. Perfil de abundancia original y predecida en sujeto hombre (A)
 
+
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_F.jpg)
+
 Fig. 3 Perfil de abundancia original y predecida en sujeto femenino (B)
+
 A lo largo del tiempo se observa que los OTU ́s de las familias Lachnospiraceae y Bacteroidaceae,
 tanto en la mujer como en el hombre son las más abundantes, formando parte del 80% de la
 comunidad de la mujer y de más del 60% del total de la diversidad de la comunidad del hombre.
 Esto era de esperarse porque en múltiples estudios (Segata ​ et al., 2013; Saxena ​ et al., 2016;
 Kusada ​ et al., 2017) se han reportado estas dos familias como las más abundantes en el tracto
-intestinal y rectal humano. Resultando incluso que Lachnospiraceae tenga una asociación
-importante con un estado antiinflamatorio y producción de células T reguladoras en el cuerpo
-humano (Scher ​ et al., 2013). La mayoría de los taxones observados se encuentran también
-representados en ambas comunidades (10 de estos).
+intestinal y rectal humano. Esto puede asociarse con la influencia de  Lachnospiraceae con un estado antiinflamatorio
+y producción de células T reguladoras en el cuerpo humano (Scher et al., 2013). 
+La mayoría de los taxones observados se encuentran también representados en ambas comunidades (10 de estos).
 Las gráficas resultantes no muestran una diferencia entre la predicción y la abundancia real,
-reflejada en el índice de Bray-Curtis, por lo que se propone que la diversidad de la microbiota es
+reflejada en el índice de Bray-Curtis, por lo que  propone que la diversidad de la microbiota es
 estable considerando que la persona en cuestión no se encontraba en un ambiente totalmente
 controlado..
 
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/PCA_M.jpg)
+
 Fig. 4 Análisis de Principales Componentes de los diferentes tipos de interacción en la red del hombre
+
+![alt text] https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_F.jpg
+
 Fig.5 Análisis de Principales Componentes de los diferentes tipos de interacción en la red de la mujer
+
 La interacción más fuerte dentro de la comunidad fue el parasitismo o depredación donde uno de
 los OTUs se ve beneficiado a expensas de otro, los OTUs ejemplificado por la familia Neisseriaceae
 y Prevotellaceae que se caracteriza por contener al género Prevotella, estos se alojan en la cavidad
 bucal produciendo placa, halitosis, y enfermedad periodontal , fueron los que presentaron una
-
 mayor cantidad de parasitismo o depredación, por el contrario, el OTU de la familia
 Oxalobacteraceae tuvo menor interacción negativa. Otra de las interacciones más destacables
 dentro de la comunidad fue la competencia, la cual se caracteriza porque los OTUs involucrados en
@@ -140,7 +153,7 @@ resalta sobre los demás es el de Oxalobacteriaceae en el cual, de entre todas s
 interacciones, el mutualismo formó parte de más de la mitad de sus interacciones. El OTU
 14,Micrococcaceae, parece contener la mayoría de las interacciones, por lo que se infiere que su
 influencia es determinante para la construcción de la red.
-Al diferencia que en la red del hombre la interacción predominante parece ser el mutualismo,
+A diferencia de la red del hombre, la interacción predominante parece ser el mutualismo,
 reflejada con más fuerza en la familia Staphylococcaceae (OTU 11). Al igual que en la comunidad
 del hombre, a pesar de no ser una familia tan abundante esta tiene una influencia relevante por sus
 interacciones con el resto de los taxa. Cabe destacar que su baja abundancia puede ser un
@@ -159,10 +172,16 @@ el buen funcionamiento del sistema digestivo (p. ej asimilación de carbohidrato
 factor de crecimiento de insulina), además de que su papel en las comunidades se ha relacionado
 con el consumo de probióticos (Matos y Leullier, 2014)
 
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20consenso_M.jpg)
+
 Fig 6. Red de interacción a partir de los OTU’s más abundantes del sujeto hombre. Las flechas rojas indican
 interacciones positivas y las azules negativas.
 
-Fig 7. OTU’s consenso a partir de todas las redes del sujeto mujer
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20consenso_F.jpg)
+
+Fig 7.  Red de interacción a partir de los OTU’s más abundantes del sujeto mujer. Las flechas rojas indican
+interacciones positivas y las azules negativas.
+
 Al recuperar sólo las 30 interacciones más fuertes se observó en la red del hombre que a pesar de que
 Micrococcaceae no está entre las familias más abundantes, es la familia que tiene más interacciones
 fuertes con las otras, presentando 13 interacciones por lo que se infiere que tiene un papel como
@@ -179,15 +198,23 @@ exclusión de OTU’s raros en la construcción de redes puede tener un efecto i
 predicciones sobre el comportamiento de la comunidad​.
 yt
 
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Interacciones%20por%20OTUs%20modelados.JPG)
+
 Fig 8. Proporción de interacciones al modelar distinto número de OTU’s en cada red
-NetAn
+NetAn. Se observa que aún aumentar el número de OTU’s considerados en el modelo, se mantiene una proporción
+
+
 Para concluir el análisis de las redes de interacción que MetaMis nos proporciona se corrieron
 ambas (masculina y femenina) con el script NetAn el cual permite ver estadísticas elementales
 que nos brindan mayor comprensión sobre la dinámica y la información retratada por la
 interacción en la comunidad.
 
 Red ​ ​ Femenina
+
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_directed_network.png)
+
 Fig 9. Red de interacción femenina filtrada por NetAn.
+
 - [] number of connected components 1.
 [u] undirected associated graph
 [d] directed graph
@@ -209,7 +236,14 @@ Fig 9. Red de interacción femenina filtrada por NetAn.
 [] number of connected components 1.
 [d] number of strongly connected components 3.
 [u] number of cycles in cycle basis 14.
-Fig 10. Estadísticas de outin degree de la gráfica femenina​.
+
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_distribution_indegree.png)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_distribution_outdegree.png)
+
+
+Fig 10. Estadísticas de outin degree de la gráfica femenina. La distribución indegree reflejan el número de conexiones
+dirigidas hacia cada vértice y las del outdegree el número de interacciones que salen de cada vértice
+
 La mayoría de los vértices de nuestra gráfica no interactúan con otras especies (dado que tenemos
 11 vértices con out-degree 0) y 3 vértices con out-degree 7, 11 y 12 respectivamente.
 De lo anterior podemos interpretar que 2 de los vértices que si interactúan presentan
@@ -227,6 +261,9 @@ Interpretando el valor de modularidad ​(0.2390...) que sugiere una preferencia
 competitivas dentro del mismo sistema (entre más cercano a 1 mayor es la estabilidad en la red y
 entre más cercano a 0 significa que más elementos de la red interactúan entre sí).
 Red ​ ​ Masculina
+
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_directed_network.png)
+
 Fig 11. Red de interacción masculina filtrada por NetAn.
 
 - [] order Random Analysis Results, Mean Measures runs(100)
@@ -251,7 +288,13 @@ Fig 11. Red de interacción masculina filtrada por NetAn.
 [u] undirected associated graph
 [d] directed graph
 [] both undirected and directed
-fig 10. estadísticas del outin degree de la gráfica masculina
+
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_indegree.png)
+![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_outdegree.png)
+
+Fig 12. Estadísticas del outin degree de la gráfica masculina. La distribución indegree reflejan el número 
+de conexiones dirigidas hacia cada vértice y las del outdegree el número de interacciones que salen de cada vértice
+
 Para el caso de la red de interacciones en el tracto masculino se tiene un comportamiento distinto,
 10 de los 14 vértices no poseen aristas dirigidas hacía ninguna otra familia, mientras que hay 4 que
 poseen 2, 4, 11 y 13 aristas dirigidas respectivamente.
@@ -283,8 +326,14 @@ puedan divergir en diferentes modelos.
 ### 6. Conclusiones
 De la información recopilada y procesada de ambas muestras intestinales pudimos observar
 variación entre ellas, probablemente debido a un número limitado de elementos y tiempos distintos
-de muestreo (15 meses para la muestra masculina y 6 meses para la muestra femenina).
-Sin embargo la dinámica de interacción y estadísticas observadas tanto por ​ MetaMis ​y ​ NetAn
+de muestreo (15 meses para la muestra masculina y 6 meses para la muestra femenina), 
+así como el bajo control sobre el tratamiento de los individuos analizados(hábitos alimenticios, 
+lugares frecuentados, hábitos de higiene etc.), a pesar de esto, los datos proporcionados
+mostraron proporciones similares en la cantidad de OTUs de las principales familias que se han 
+reportado como parte de nuestro tracto digestivo, por lo que las diferencias marcadas probablemente 
+sean por la falta de control en la toma de los datos. 
+
+La dinámica de interacción y estadísticas observadas tanto por ​ MetaMis ​y ​ NetAn
 nos brindaron una perspectiva mucho más completa para poder compararlas.
 Por lo que los resultados del análisis de ambas comunidades bacterianas nos permite afirmar que
 se presenta una dinámica de interacción estructuralmente similar en el sujeto mujer y en el hombre.
@@ -292,6 +341,17 @@ Los datos proporcionados de los grupo de mujeres y hombres mostraron proporcione
 familias que se han reportado anteriormente como parte de nuestro tracto digestivo, por lo que las
 diferencias marcadas entre las familias probablemente sean por la falta de control en la toma de los
 datos y la diferencia de tiempo.
+
+El software de MetaMIS proporcionó los datos de una red de interacciones en la microbiota intestinal; 
+dicha red, en conjunto con el script de NetAn, nos brinda información de mayor comprensión acerca de la 
+dinámica en las comunidades, con el fin de hacer un análisis biológico de las interacciones en el microbioma. 
+Los resultados de los análisis computacionales y estadísticos demostraron que la estructura de las interacciones
+es similar tanto en el hombre como en la mujer, a pesar que hubo diferencias en la cantidad de OTUs registrados 
+y la diversidad de familias a las que estos pertenecen.
+Se registró una proporción importante de mutualismo dada por familias indicadoras de microbiota. Se mostró la 
+importancia de algunos OTUS con baja abundancia pero con papeles importantes en las interacciones con otros OTU,
+esto reafirma las utilidades de MetaMis al proporcionar las predicciones de interacciones.
+
 
 ### 7. Referencias
 Blondel, V. D., Guillaume, J. -L., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in
@@ -338,7 +398,6 @@ Scher, J. U., Sczesnak, A., Longman, R. S., Segata, N., Ubeda, C., Bielski, C., 
 Pamer, E. G., Abramson, S. B., Huttenhower, C., & Littman, D. R. (2013). Expansion of
 intestinal Prevotella copri correlates with enhanced susceptibility to arthritis. ​ eLife ​, ​ 2 ​, e01202.
 httpsdoi.org10.7554eLife.
-
 Segata, N., Boernigen, D., Tickle, T. L., Morgan, X. C., Garrett, W. S., & Huttenhower, C. (2013).
 Computational meta'omics for microbial community studies. ​ Molecular systems biology ​, ​ 9 ​, 666.
 httpsdoi.org10.1038msb.2013.
@@ -349,7 +408,8 @@ M., Hidalgo, G., Baldassano, R. N., Anokhin, A. P., Heath, A. C., Warner, B., Re
 Kuczynski, J., Caporaso, J. G., Lozupone, C. A., Lauber, C., Clemente, J. C., Knights, D., ...
 Gordon, J. I. (2012). Human gut microbiome viewed across age and geography. In ​ Nature (Vol.
 486, Issue 7402, pp. 222–227). Nature Publishing Group. ​httpsdoi.org10.1038nature
-Software
+
+#### Referencias Software
 Shaw, G. T. W., Pao, Y. Y., & Wang, D. (2016). MetaMIS A metagenomic microbial interaction
 simulator based on microbial community profiles. ​ BMC Bioinformatics ​, ​ 17 ​(1), 488.
 httpsdoi.org10.1186s12859-016-1359-
