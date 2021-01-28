@@ -178,12 +178,12 @@ el buen funcionamiento del sistema digestivo (p. ej asimilación de carbohidrato
 factor de crecimiento de insulina), además de que su papel en las comunidades se ha relacionado
 con el consumo de probióticos (Matos y Leullier, 2014)
 
-![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20consenso_M.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red_main_M.jpg)
 
 Fig 6. Red de interacción a partir de los OTU’s más abundantes del sujeto hombre. Las flechas rojas indican
 interacciones positivas y las azules negativas.
 
-![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20consenso_F.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20main_F.jpg)
 
 Fig 7.  Red de interacción a partir de los OTU’s más abundantes del sujeto mujer. Las flechas rojas indican
 interacciones positivas y las azules negativas.
