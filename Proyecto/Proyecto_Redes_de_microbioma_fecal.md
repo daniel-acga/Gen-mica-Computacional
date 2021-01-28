@@ -81,7 +81,7 @@ una dinámica de interacción estructuralmente similar en el sujeto mujer y en e
 
 ### 4. Método
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Data/gut_microbiome_Donaldson2015.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Data/gut_microbiome_Donaldson2015.jpg)
 
 Se utilizaron datos provenientes del artículo de Caropaso y colaboradores de 2011. En ellos se
 estudió a la microbiota intestinal (a partir de heces) de un hombre y una mujer sanos por 15 meses
@@ -106,12 +106,12 @@ conectados, modularidad del coeficiente de agrupamiento asociado a las comunidad
 ### 5. Resultados
 Análisis de la red interacción por medio de MetaMIS
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_M.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_M.jpg)
 
 Fig 2. Perfil de abundancia original y predecida en sujeto hombre (A)
 
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_F.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_F.jpg)
 
 Fig. 3 Perfil de abundancia original y predecida en sujeto femenino (B)
 
@@ -128,11 +128,11 @@ reflejada en el índice de Bray-Curtis, por lo que  propone que la diversidad de
 estable considerando que la persona en cuestión no se encontraba en un ambiente totalmente
 controlado..
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/PCA_M.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/PCA_M.jpg)
 
 Fig. 4 Análisis de Principales Componentes de los diferentes tipos de interacción en la red del hombre
 
-![alt text] https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_F.jpg
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Abundancia%20original%20y%20predecida_F.jpg)
 
 Fig.5 Análisis de Principales Componentes de los diferentes tipos de interacción en la red de la mujer
 
@@ -172,12 +172,12 @@ el buen funcionamiento del sistema digestivo (p. ej asimilación de carbohidrato
 factor de crecimiento de insulina), además de que su papel en las comunidades se ha relacionado
 con el consumo de probióticos (Matos y Leullier, 2014)
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20consenso_M.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20consenso_M.jpg)
 
 Fig 6. Red de interacción a partir de los OTU’s más abundantes del sujeto hombre. Las flechas rojas indican
 interacciones positivas y las azules negativas.
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20consenso_F.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Red%20consenso_F.jpg)
 
 Fig 7.  Red de interacción a partir de los OTU’s más abundantes del sujeto mujer. Las flechas rojas indican
 interacciones positivas y las azules negativas.
@@ -198,7 +198,7 @@ exclusión de OTU’s raros en la construcción de redes puede tener un efecto i
 predicciones sobre el comportamiento de la comunidad​.
 yt
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Interacciones%20por%20OTUs%20modelados.JPG)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/MetaMis/Interacciones%20por%20OTUs%20modelados.JPG)
 
 Fig 8. Proporción de interacciones al modelar distinto número de OTU’s en cada red
 NetAn. Se observa que aún aumentar el número de OTU’s considerados en el modelo, se mantiene una proporción
@@ -211,7 +211,7 @@ interacción en la comunidad.
 
 Red ​ ​ Femenina
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_directed_network.png)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_directed_network.png)
 
 Fig 9. Red de interacción femenina filtrada por NetAn.
 
@@ -262,7 +262,7 @@ competitivas dentro del mismo sistema (entre más cercano a 1 mayor es la estabi
 entre más cercano a 0 significa que más elementos de la red interactúan entre sí).
 Red ​ ​ Masculina
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_directed_network.png)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_directed_network.png)
 
 Fig 11. Red de interacción masculina filtrada por NetAn.
 
@@ -289,8 +289,8 @@ Fig 11. Red de interacción masculina filtrada por NetAn.
 [d] directed graph
 [] both undirected and directed
 
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_indegree.png)
-![alt text] (https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_outdegree.png)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_indegree.png)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_outdegree.png)
 
 Fig 12. Estadísticas del outin degree de la gráfica masculina. La distribución indegree reflejan el número 
 de conexiones dirigidas hacia cada vértice y las del outdegree el número de interacciones que salen de cada vértice
