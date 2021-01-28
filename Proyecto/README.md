@@ -88,7 +88,8 @@ una dinámica de interacción estructuralmente similar en el sujeto mujer y en e
 
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Data/M%C3%A9todo%20-%20DiagFlujo.jpg)
 
-Se utilizaron datos provenientes del artículo de Caropaso y colaboradores de 2011. En ellos se
+Se utilizaron datos provenientes del artículo de Caropaso y colaboradores de 2011 con los que previamente se generaron
+las tablas de abundancias crudas disponibles como datos de prueba de MetaMIS. Con ellos se
 estudió a la microbiota intestinal (a partir de heces) de un hombre y una mujer sanos por 15 meses
 y por 6 meses respectivamente. Usando la taxonomía de Greengenes, el número total de taxones
 asignados a nivel Familia fue 92 para el hombre y de 69 para la mujer. Los dos conjuntos de datos
