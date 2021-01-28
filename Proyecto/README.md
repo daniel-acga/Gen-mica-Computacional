@@ -3,12 +3,12 @@
 ## Interacciones de la comunidad bacteriana asociada al Microbioma intestinal diferenciado por sexo.
 ### Integrantes
 
-Muñoz Barón Luis Miguel (315116663)
-Acosta Daniel Enrique (315124772)
-Hernández Leyva Mirén Jessamyn (315309452)
-Avella Villalobos Mario Alberto (419003296)
-Conde Alonzo Vanessa Xochitl (316105408)
-Austria López Astrid (316115607)
+Luis Miguel MB (ebooshi - 315116663)
+Daniel AG (daniel-acga 315124772)
+Mirén HL (mjhl1999 - 315309452)
+Mario AV (419003296)
+Vanessa CA (316105408)
+Astrid AL (316115607)
 
 
 ### 1. Introducción
