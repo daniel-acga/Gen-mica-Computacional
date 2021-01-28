@@ -9,7 +9,7 @@ Daniel AG (daniel-acga 315124772)
 
 Mirén HL (mjhl1999 - 315309452)
 
-Mario AV (419003296)
+Mario AV (Mario-Avella - 419003296)
 
 Vanessa CA (316105408)
 
@@ -221,27 +221,32 @@ Red ​ ​ Femenina
 
 Fig 9. Red de interacción femenina filtrada por NetAn.
 
-- [] number of connected components 1.
-- [u] undirected associated graph
-- [d] directed graph
-- [] order Random Analysis Results, Mean Measures runs(100)
-- [] size
-- [u] diameter 3.
-- [u] radius 1.
-- [d] density 0.
-- [d] mean degree 2.
-- [d] clustering coefficient 0.
-- [] maximum in degree 4.
-- [] maximum out degree 4.
-- [d] hubs with max in degree 1.
-- [d] hubs with max out degree 1.
-- [u] modularity 0.
-- [u] coverage 0.
-- [u] performance 0.
-- [u] number of communities 3.
-- [] number of connected components 1.
-- [d] number of strongly connected components 3.
-- [u] number of cycles in cycle basis 14.
+Random Analysis Results, Mean Measures:			runs(100) \n
+ - [/] order:	14 \n
+ - [/] size:	30 \n
+ - [u] diameter:	3.17 \n
+ - [u] radius:	1.93 \n
+ - [d] density:	0.1648351648351646 \n
+ - [d] mean degree:	2.1428571428571406 \n
+ - [d] clustering coefficient:	0.15575586768389907 \n
+ - [/] maximum in degree:	4.55 \n
+ - [/] maximum out degree:	4.67 \n
+ - [d] hubs with max in degree:	1.65 \n
+ - [d] hubs with max out degree:	1.6 \n
+ - [u] modularity:	0.23909913055044274 \n
+ - [u] coverage:	0.5956093245196693 \n
+ - [u] performance:	0.7710989010989004 \n
+ - [u] number of communities:	3.35 \n
+ - [/] number of connected components:	1.14 \n
+ - [d] number of strongly connected components:	3.96 \n
+ - [u] number of cycles in cycle basis:	14.7 \n
+
+
+
+[u] undirected associated graph \n
+[d] directed graph \n
+[/] both undirected and directed \n
+
 
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_distribution_indegree.png)
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/F%20gut/F_gut_EDGE_14_distribution_outdegree.png)
@@ -272,28 +277,30 @@ Red ​ ​ Masculina
 
 Fig 11. Red de interacción masculina filtrada por NetAn.
 
-- [] order Random Analysis Results, Mean Measures runs(100)
-- [] size
-- [] size 30
-- [u] diameter 3.
-- [u] radius 1.
-- [d] density 0.
-- [d] mean degree 2.
-- [d] clustering coefficient 0.
-- [] maximum in degree 4.
-- [] maximum out degree 4.
-- [d] hubs with max in degree 1.
-- [d] hubs with max out degree1.
-- [u] modularity 0.
-- [u] coverage0.
-- [u] performance 0.
-- [u] number of communities 3.
-- [] number of connected components 1.
-- [d] number of strongly connected components4.
-- [u] number of cycles in cycle basis 14.
-- [u] undirected associated graph
-- [d] directed graph
-- [] both undirected and directed
+Random Analysis Results, Mean Measures:			runs(100) \n
+ - [/] order:	14 \n
+ - [/] size:	30 \n
+ - [u] diameter:	3.28 \n
+ - [u] radius:	1.93 \n
+ - [d] density:	0.1648351648351646 \n
+ - [d] mean degree:	2.1428571428571406 \n
+ - [d] clustering coefficient:	0.1533276633536706 \n
+ - [/] maximum in degree:	4.59 \n
+ - [/] maximum out degree:	4.73 \n
+- [d] hubs with max in degree:	1.77 \n
+ - [d] hubs with max out degree:	1.56 \n
+ - [u] modularity:	0.23874454027679082 \n
+ - [u] coverage:	0.6077017051913604 \n
+ - [u] performance:	0.7683516483516479 \n
+ - [u] number of communities:	3.25 \n
+ - [/] number of connected components:	1.12 \n
+ - [d] number of strongly connected components:	4.49 \n
+ - [u] number of cycles in cycle basis:	14.85 \n
+
+[u] undirected associated graph \n
+[d] directed graph \n
+[/] both undirected and directed \n
+
 
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_indegree.png)
 ![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Outputs/NetAn/M%20gut/M_gut_EDGE_14_distribution_outdegree.png)
