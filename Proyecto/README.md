@@ -4,10 +4,15 @@
 ### Integrantes
 
 Luis Miguel MB (ebooshi - 315116663)
+
 Daniel AG (daniel-acga 315124772)
+
 Mirén HL (mjhl1999 - 315309452)
+
 Mario AV (419003296)
+
 Vanessa CA (316105408)
+
 Astrid AL (316115607)
 
 
