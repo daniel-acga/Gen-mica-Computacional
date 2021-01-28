@@ -60,6 +60,9 @@ fermentación, la metanogénesis y el metabolismo de la arginina, el glutamato, 
 lisina. En cambio, en los microbiomas de los lactantes las enzimas dominantes están implicadas en
 el metabolismo de la cisteína y en las vías de fermentación (Gerritsen ​ et al., ​ 2011).
 
+
+![alt text](http:https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Data/gut_microbiome_Donaldson2015.jpg)
+
 Fig. 1. ​ ​Las familias de bacterias dominantes del intestino delgado y el colon reflejan diferencias fisiológicas a lo largo
 del intestino. Los phyla bacterianos dominantes en el intestino son Bacteroidetes, Firmicutes, Actinobacteria,
 Proteobacteria y Verrucomicrobia. Imagen proveniente de Donaldson et al. (2015).
