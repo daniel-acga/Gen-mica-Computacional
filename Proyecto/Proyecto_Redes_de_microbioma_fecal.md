@@ -81,7 +81,7 @@ una dinámica de interacción estructuralmente similar en el sujeto mujer y en e
 
 ### 4. Método
 
-![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Data/gut_microbiome_Donaldson2015.jpg)
+![alt text](https://github.com/ebooshi/Gen-mica-Computacional/blob/master/Proyecto/Data/M%C3%A9todo%20-%20DiagFlujo.jpg)
 
 Se utilizaron datos provenientes del artículo de Caropaso y colaboradores de 2011. En ellos se
 estudió a la microbiota intestinal (a partir de heces) de un hombre y una mujer sanos por 15 meses
